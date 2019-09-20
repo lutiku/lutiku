@@ -1,6 +1,6 @@
 
 
-INSERT INTO Colaborateurs(nom, prenom, departement, experience_annees, langue_p, langue_l, langue_e)
+INSERT INTO Collaborateur(nom, prenom, departement, experience_annees, langue_p, langue_l, langue_e)
  VALUES
  ('Rébecca', 'Armand', 'Système d\'information', '3', 'Français, Anglais,Allemand, Italien', 'Français,Anglais,Allemand, Italien','Français, Anglais, Italien' ),
 
