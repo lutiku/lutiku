@@ -1,1 +1,1 @@
-Difficultés : cardinalité danns le MCD et partager des fichiers sur github
+Difficultés : cardinalité dans le MCD et partager des fichiers sur github
